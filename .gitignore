@@ -1,0 +1,9 @@
+.idea
+node_modules/
+uploads/
+build/
+src/
+
+access.log
+binding.gyp
+npm-debug.log
